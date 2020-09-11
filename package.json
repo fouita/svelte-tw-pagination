@@ -22,5 +22,18 @@
   "files": [
     "src",
     "dist"
-  ]
+  ],
+  "description": "Simple pagination component built with svelte and tailwindcss",
+  "version": "0.0.1",
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fouita/svelte-tw-pagination.git"
+  },
+  "author": "fouita",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fouita/svelte-tw-pagination/issues"
+  },
+  "homepage": "https://github.com/fouita/svelte-tw-pagination#readme"
 }
