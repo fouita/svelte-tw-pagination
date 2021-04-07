@@ -24,7 +24,7 @@
     "dist"
   ],
   "description": "Simple pagination component built with svelte and tailwindcss",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "dependencies": {},
   "repository": {
     "type": "git",
